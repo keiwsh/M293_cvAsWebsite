@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap");
+
+body {
+  background: #f5f6fd;
+  font-family: "League Spartan", sans-serif;
+}
+
+.display-4 {
+  color: #5943be;
+  text-shadow: 6px 2px 2px #dcddf8;
+  font-weight: 600;
+  white-space: nowrap;
+  font-size: 50px;
+}
+
+.img-resize {
+  max-width: 100%;
+  height: auto;
+  max-height: 100%;
+}
+
+.content-wrapper {
+  margin-top: 150px;
+}
+
+.img-shadow {
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2);
+}
+
+.lead {
+  margin-top: -11px;
+  color: #9f9ce9;
+  font-size: 26px;
+  text-shadow: 6px 2px 2px #dcddf8;
+}
+
+.goals {
+  color: #9f9ce9;
+  text-shadow: 6px 6px 6px #dcddf8;
+}
+.apprenticeship {
+  margin-top: 30px;
+  color: #9f9ce9;
+  text-shadow: 6px 6px 6px #dcddf8;
+}
+.partTime {
+  margin-top: -15px;
+  color: #9f9ce9;
+  text-shadow: 6px 6px 6px #dcddf8;
+}
+
+a {
+  color: #5943be;
+}
+
+.musicSpotify {
+  margin-top: -10px;
+  margin-left: 70px;
+}
